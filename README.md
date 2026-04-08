@@ -1,3 +1,6 @@
+# CHANGELOG, INFO ECC ... -> https://github.com/IziPeezeLemonSqueeze/AvalonSC_RELEASE/wiki
+
+
 # ITA
 # AvalonSC 📝
 
