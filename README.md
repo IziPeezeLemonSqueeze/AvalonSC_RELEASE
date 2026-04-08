@@ -5,8 +5,7 @@
 # AvalonSC 📝
 
 AvalonSC è un'applicazione lightweight per la gestione delle note e altri aspetti durante il Gaming.
-Studiato per Star Citizen.
-Connesso con Crimson Dawn Finance.
+Studiato per Star Citizen, Usabile OVUNQUE!
 
 Un Overlay sempre alla portata di mano, non intrusiva, leggera e facile da usare!
 Portabile, non richiede installazione!
@@ -19,9 +18,8 @@ Portabile, non richiede installazione!
 # ENG
 # AvalonSC 📝
 
-AvalonSC is a lightweight app for managing notes and other aspects while gaming.
-Designed for Star Citizen.
-Integrated with Crimson Dawn Finance.
+AvalonSC is a lightweight app for managing notes and other aspects of gaming.
+Designed for Star Citizen, but usable ANYWHERE!
 
 An overlay that’s always at your fingertips—non-intrusive, lightweight, and easy to use!
 Portable, no installation required!
